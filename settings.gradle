@@ -1,0 +1,2 @@
+rootProject.name='My_First_Basic_Activity_App'
+include ':app'
